@@ -99,7 +99,9 @@
     },
     {
       "user": "6285829658816",
-      "bot": [],
+      "bot": [
+        "6281529226904"
+      ],
       "token": "jagpro_yob5alsfffyt41hs",
       "limit": 1
     },
