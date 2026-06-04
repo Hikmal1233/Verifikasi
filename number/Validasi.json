@@ -134,6 +134,14 @@
       "bot": [],
       "token": "jagpro_s116w5ag0qldijan",
       "limit": 1
+    },
+    {
+      "user": "62895626780859",
+      "bot": [
+        "6289527234542"
+      ],
+      "token": "jagpro_a62r14zmfjwfvv9q",
+      "limit": 1
     }
   ]
 }
