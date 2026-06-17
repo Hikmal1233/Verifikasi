@@ -212,7 +212,9 @@
     },
     {
       "user": "6282171709001",
-      "bot": [],
+      "bot": [
+        "84777206719"
+      ],
       "token": "mahiru_sharw3gpt59q3kvb",
       "limit": 1
     }
