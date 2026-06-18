@@ -216,6 +216,14 @@
       ],
       "token": "mahiru_sharw3gpt59q3kvb",
       "limit": 1
+    },
+    {
+      "user": "6282324853300",
+      "bot": [
+        "6282324853300"
+      ],
+      "token": "mahiru_qs3letq02y2d543d",
+      "limit": 1
     }
   ]
 }
