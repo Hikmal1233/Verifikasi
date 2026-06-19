@@ -109,7 +109,9 @@
     },
     {
       "user": "6285837816643",
-      "bot": [],
+      "bot": [
+        "6281539886697"
+      ],
       "token": "jagpro_vkscpcuc24zty7ow",
       "limit": 1
     },
