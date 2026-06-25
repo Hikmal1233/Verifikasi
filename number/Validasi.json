@@ -224,6 +224,14 @@
       "bot": [],
       "token": "mahiru_qs3letq02y2d543d",
       "limit": 1
+    },
+    {
+      "user": "6285179620071",
+      "bot": [
+        "6287888067885"
+      ],
+      "token": "mahiru_zh5t5c03j3m2ieh0",
+      "limit": 1
     }
   ]
 }
