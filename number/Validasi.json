@@ -197,7 +197,9 @@
     },
     {
       "user": "6289635888337",
-      "bot": [],
+      "bot": [
+        "6289525670814"
+      ],
       "token": "mahiru_bi5qiawnwvajmilf",
       "limit": 1
     },
